@@ -6,6 +6,10 @@
   email: caidala@bnl.gov
   inst: Department of Physics, University of Michigan, Ann Arbor, Michigan 48109-1040, USA
 
+  name: Anderson, Derek
+  email: dmawxc@IASTATE.EDU
+  inst: Iowa State University, Ames, Iowa 50011, USA
+  
 - name:  Antsupov,Sergey
   email: antsupov0124@gmail.com
   inst: Saint Petersburg State Polytechnic University, St.Petersburg, 195251 Russia
@@ -383,9 +387,14 @@
   email: potekhin@bnl.gov
   inst: Physics Department, Brookhaven National Laboratory, Upton, New York 11973-5000, USA
 
+- name: Prasad,Chaitanya
+  email: chaitanya.prasad@stonybrook.edu
+  inst:  Department of Physics and Astronomy, Stony Brook University, SUNY, Stony Brook, New York 11794-3800, USA
+  
 - name: Pun,Abinash
   email: ap564413@ohio.edu
   inst: Department of Physics and Astronomy, Ohio University, Athens, Ohio 45701, USA
+  
 - name: Purschke,Martin
   email: purschke@bnl.gov
   inst: Physics Department, Brookhaven National Laboratory, Upton, New York 11973-5000, USA
